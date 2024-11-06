@@ -1,6 +1,6 @@
-<h1 align="center">Konnichiwa👋</h1>
+<h1 align="center">hi there👋</h1>
 
-###
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/meerthika/" target="_blank">
@@ -12,33 +12,20 @@
 </div>
 
 ###
-<div align = "center>
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/mery_top?theme=dark)
+
+
+###
+
+
+###
+
+<h3 align="center">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/mery_top?theme=dark" alt="Leetcode Stats" />
 </div>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
@@ -54,3 +41,5 @@
 </div>
 
 ###
+###
+
