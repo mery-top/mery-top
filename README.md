@@ -11,7 +11,11 @@
   </a>
 </div>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/mery_top?theme=dark)
+###
+<div align = "center>
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/mery_top?theme=dark)
+</div>
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
