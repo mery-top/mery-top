@@ -37,10 +37,13 @@
 <h3 align="center">🔥   Leetcode Stats :</h3>
 
 ###
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/mery_top?theme=dark" alt="Leetcode Stats" />
-  <br/>
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=mery_top&theme=dark&border=border&animated=false" alt="Leetcode Badge" />
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <a href="https://leetcode.com/mery_top">
+    <img src="https://leetcard.jacoblin.cool/mery_top?ext=contest&theme=dark&font=Abel" alt="LeetCode Stats" />
+  </a>
+  <div style="display: flex; align-items: center;">
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=mery_top&theme=dark&border=border&animated=false" alt="Leetcode Badge" />
+  </div>
 </div>
 
 
