@@ -37,10 +37,12 @@
 <h3 align="center">🔥   Leetcode Stats :</h3>
 
 ###
-
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/mery_top?theme=dark" alt="Leetcode Stats" />
+  <br/>
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=mery_top&theme=dark&border=border&animated=false" alt="Leetcode Badge" />
 </div>
+
 
 ###
 
