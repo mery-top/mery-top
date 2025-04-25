@@ -41,9 +41,9 @@
   <a href="https://leetcode.com/mery_top">
     <img src="https://leetcard.jacoblin.cool/mery_top?ext=contest&theme=dark&font=Abel" alt="LeetCode Stats" />
   </a>
-  <div style="display: flex; align-items: center;">
+<!--   <div style="display: flex; align-items: center;">
     <img src="https://leetcode-badge-showcase.vercel.app/api?username=mery_top&theme=dark&border=border&animated=false" alt="Leetcode Badge" />
-  </div>
+  </div> -->
 </div>
 
 
