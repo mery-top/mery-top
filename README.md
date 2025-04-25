@@ -1,24 +1,36 @@
-<h1 align="center">hi there👋</h1>
-<div align = "center">
-<h3>I am Meerthika</h3>
-</div>
+<h1 align="center">Hey there 👋, I'm Meerthika</h1>
+<h3 align="center">🚀 Passionate Developer | 🌱 Lifelong Learner | 🎯 Focused on Innovation</h3>
+
+<p align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+%F0%9F%94%A5+build+real-world+solutions;Cloud+Infra%2C+AI%2C+Automation+✨;Lover+of+open+source+%E2%9D%A4%EF%B8%8F;Always+learning+something+new+%F0%9F%93%9A;Turning+ideas+into+impact+%F0%9F%A4%AA" alt="Typing SVG" />
+
+</p>
+
+---
+
+### 🙋‍♂️ About Me
+
+- 🔭 I’m currently working on **a cloud-native automation platform**
+- 🌱 I’m learning **advanced Go internals and Kubernetes operators**
+- 💬 Ask me about **Java, Go, Python, Flask, Docker, Terraform, Jenkins, AWS**
+- ⚡ Fun fact: *I automate everything... even my coffee machine ☕*
 
 
+---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/meerthika/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCBSAxhUjqFdXMPTsw40RTdw" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-</div>
+### 🛠️ Languages and Tools
 
-###
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
+</p>
 
-
-###
-
+---
 
 ###
 
@@ -34,23 +46,52 @@
 
 <div align="center">
 
-<h2 align="center">⚙️   Tech Stack:</h2>
-
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mery-top&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mery-top&theme=github_dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mery-top&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<table>
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mery-top&theme=github_dark&hide_border=true" />
+<br/>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=mery-top&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mery-top&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+    </td>
+  </tr>
+</table>
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  </div>
 
-###
+</div>
+
+
+
+
+---
+
+
 
 <div align="center">
   
 </div>
 
 ###
+
+### 🧠 Keep Learning, Keep Building!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="300" />
+</p>
+
+---
+
+⭐️ From [Meerthika](https://github.com/mery-top)
+
 ###
+
+
 
