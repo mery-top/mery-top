@@ -1,39 +1,29 @@
-<h1 align="center">Hey there 👋, I'm Meerthika</h1>
-<h3 align="center">🚀 Passionate Developer | 🌱 Lifelong Learner | 🎯 Focused on Innovation</h3>
-
-<p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+%F0%9F%94%A5+build+real-world+solutions;Cloud+Infra%2C+AI%2C+Automation+✨;Lover+of+open+source+%E2%9D%A4%EF%B8%8F;Always+learning+something+new+%F0%9F%93%9A;Turning+ideas+into+impact+%F0%9F%A4%AA" alt="Typing SVG" />
-
-</p>
-
----
+<div align="center">
 
 ### 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **a cloud-native automation platform**
-- 🌱 I’m learning **advanced Go internals and Kubernetes operators**
-- 💬 Ask me about **Java, Go, Python, Flask, Docker, Terraform, Jenkins, AWS**
-- ⚡ Fun fact: *I automate everything... even my coffee machine ☕*
+I’m currently working on **Low level Systems**  
+<!--- 🌱 I’m learning **High Performance Computing, OS internals**  
+- 💬 Love to discuss about **Software Internals** -->
 
+</div>
 
----
+<div align="center">
 
 ### 🛠️ Languages and Tools
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/>
+
+</div>
+
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40"/>
-
-</p>
-
----
-
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40"/> 
 
 ```
  ___   __   __  _______  _______   __    _  _______  _______  __   __  ___  __   __   _______  _______  _     _ 
@@ -44,28 +34,38 @@
 |   | |       | _____| ||   |___  | | |   ||   |___ |       | |     | |   || ||_|| | | |_|   |  |   |  |   _   |
 |___| |_______||_______||_______| |_|  |__||_______||_______|  |___|  |___||_|   |_| |_______|  |___|  |__| |__|
 
-```                                                                          
+```
+-->
+
+
+</p>
+
+
+                                                                       
 
 ###
 
-<h3 align="center">🔥   Leetcode Stats :</h3>
 
 ###
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <a href="https://leetcode.com/mery_top">
+<!--   
+ <h3 align="center">🔥   Leetcode Stats :</h3>
+ <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+ <a href="https://leetcode.com/mery_top">
     <img src="https://leetcard.jacoblin.cool/mery_top?ext=contest&theme=dark&font=Abel" alt="LeetCode Stats" />
-  </a>
+  </a> -->
 <!--   <div style="display: flex; align-items: center;">
     <img src="https://leetcode-badge-showcase.vercel.app/api?username=mery_top&theme=dark&border=border&animated=false" alt="Leetcode Badge" />
-  </div> -->
-</div>
+  </div>
+  </div>
+  -->
+
 
 
 ###
 
 <div align="center">
 
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats: -->
 
 <table>
   
@@ -90,11 +90,8 @@
 
 
 
----
 
-
-
-<div align="center">
+<!--<div align="center">
   
 </div>
 
@@ -111,6 +108,7 @@
 ⭐️ From [Meerthika](https://github.com/mery-top)
 
 ###
+-->
 
 
 
