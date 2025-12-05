@@ -10,13 +10,20 @@ I’m currently working on **Low level Systems**
 
 <div align="center">
 
+  <img src="https://github.com/user-attachments/assets/dc94612f-fae8-401f-b0aa-2175d8e3cf07" width="200" />
+
 ### 🛠️ Languages and Tools
+
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/>
 
+
 </div>
+
+
+
 
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40"/>
