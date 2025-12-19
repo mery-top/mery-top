@@ -76,7 +76,7 @@ I’m currently working on **Low level Systems**
 
 <table>
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mery-top&theme=github_dark&hide_border=true" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mery-top" alt="GitHub Streak" /></a>
 <br/>
   <tr>
     <td>
