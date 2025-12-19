@@ -10,7 +10,7 @@ I’m currently working on **Low level Systems**
 
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/dc94612f-fae8-401f-b0aa-2175d8e3cf07" width="200" />
+  <img src="https://github.com/user-attachments/assets/e88ef868-5718-4299-9aa0-2c9bd97001a2" width="200" />
 
 ### 🛠️ Languages and Tools
 
