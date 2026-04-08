@@ -74,16 +74,11 @@ I’m currently working on **Low level Systems**
 
 <div align="center">
 
-<!-- # 📊 GitHub Stats: -->
-![](https://nirzak-streak-stats.vercel.app/?user=mery-top&theme=dark&hide_border=false)<br/>
+
 <table>
-<br/>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mery-top&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mery-top&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+      <img src="https://ghstats.dev/api/card?username=mery-top" />
     </td>
   </tr>
 </table>
